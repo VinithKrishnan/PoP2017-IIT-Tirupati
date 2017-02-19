@@ -11,3 +11,27 @@ Week2
 #1 Digged deeper into the Rust programming language.
 #2 Looked into a field of research called emperical research.
 #3 Learnt a new algorithm to find the convex hull of a given set of points.
+
+Week3
+ #1 Learnt the basics of Rust.
+ #2 Solved 6 problems on Rosetta Code.
+  
+Week4
+  
+  #1 Learnt about grammars, derivations and the types of grammars.
+  #2 Implemented C++ STL templates.
+  
+Week5
+  #1 Played with object oriented programming.
+  #2 Started going through tutorials on Rust.
+  
+ Week6
+  #1 Went through the Rust specification.
+  #2 Experimented with the functional programming features of Rust.
+  #3 Read articles/tutorials on interpreters and learnt to evaluate arithmetic expressions.
+  
+  Week7
+
+  #1 Learnt about lexers and tokens.
+  #2 Implemented circular array and stacks using Rust.
+    
